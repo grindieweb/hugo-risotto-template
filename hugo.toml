@@ -6,6 +6,10 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 copyright = "© [Your Name Here](https://example.com) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
 

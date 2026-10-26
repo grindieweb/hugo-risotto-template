@@ -1,10 +1,10 @@
 baseURL = "https://example.org/"
-title = "My New Hugo Project"
+title = "My Awesome Blog"
 theme = "risotto"
 author = "Your Name Here"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-copyright = "© [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
+copyright = "© [Your Name Here](https://example.com) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
 
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"

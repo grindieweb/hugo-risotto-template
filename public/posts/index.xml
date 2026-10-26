@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on My Awesome Blog</title>
-		<link>http://localhost:1313/posts/</link>
+		<link>https://example.org/posts/</link>
 		<description>Recent content in Posts on My Awesome Blog</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -14,12 +14,12 @@
 		
 			<lastBuildDate>Mon, 26 Oct 2026 18:12:40 -0400</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>My First Post</title>
-				<link>http://localhost:1313/posts/my-first-post/</link>
+				<link>https://example.org/posts/my-first-post/</link>
 				<pubDate>Mon, 26 Oct 2026 18:12:40 -0400</pubDate>
-				<guid>http://localhost:1313/posts/my-first-post/</guid>
+				<guid>https://example.org/posts/my-first-post/</guid>
 				<description>&lt;p&gt;Example content.&lt;/p&gt;</description>
 			</item>
 	</channel>

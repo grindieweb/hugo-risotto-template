@@ -1,7 +1,27 @@
 +++
-date = '2026-10-26T18:12:40-04:00'
-draft = false
 title = 'My First Post'
+date = '2026-10-26T22:12:00Z'
+draft = false
+tags = [
+	'tag1',
+	'tag2',
+]
+categories = [
+	'category1',
+	'category2',
+]
 +++
+Some test stuff.
 
-Example content.
+# Test
+
+Testing 1234
+
+# Test 2
+
+Testing 5678
+
+
+
+![a beach](/images/beach.png)
+
